@@ -38,9 +38,8 @@ public class KahveDunyasi_Tests extends TestBaseRapor {
 
         // close the advertisement
         ReusableMethods.bekle(3);
-        if (kDElements.advertisement.isDisplayed()) {
-            kDElements.buttonClose.click();
-        }
+    //    if (kDElements.advertisement.isDisplayed()) {
+    //        kDElements.buttonClose.click();}
 
         // Go to the "Kahve" section
         ReusableMethods.bekle(3);

@@ -53,8 +53,8 @@ public class KahveDunyasi_Mobil_Tests extends TestBaseRapor {
 
         // close the advertisement
         ReusableMethods.bekle(3);
-        if (mobilePage.advertisement.isDisplayed()) {
-           mobilePage.buttonClose.click();}
+     //   if (mobilePage.advertisement.isDisplayed()) {
+      //     mobilePage.buttonClose.click();}
 
         //go to the kahve section in dropdown
         ReusableMethods.bekle(3);
