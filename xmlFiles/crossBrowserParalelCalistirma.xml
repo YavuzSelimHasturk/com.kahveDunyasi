@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Cross Browser Sirali Calistirma" parallel="tests" thread-count="2">
+
+    <test name="Cross Browser Chrome ile Calisacak classlar">
+        <parameter name="browser" value="chrome"></parameter>
+        <packages>
+            <package name="tests.*"></package>
+        </packages>
+
+
+    </test>
+    <test name="Cross Browser Firefox ile calisacak classlar">
+        <parameter name="browser" value="firefox"></parameter>
+        <packages>
+            <package name="tests.*"></package>
+        </packages>
+
+    </test>
+
+
+</suite>
