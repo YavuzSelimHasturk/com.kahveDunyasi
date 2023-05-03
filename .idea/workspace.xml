@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac0c5d69-4be2-472b-935f-ce7cf27f36d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Mobil_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Mobil_Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/KahveDunyasi_Mobil_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/KahveDunyasi_Mobil_Tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/KahveDunyasi_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/KahveDunyasi_Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Kahve Dunyasi Web Automation_20230428050912.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/belirliClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/belirliClasslariCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/crossBrowserParalelCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/crossBrowserParalelCalistirma.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +33,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Yvz/IdeaProjects/com.KahveDunyasi_TestNG_",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yvz/IdeaProjects/com.KahveDunyasi_TestNG_&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.C:/Users/Yvz/IdeaProjects/com.morhipo_TestNG_/xmlFiles/belirliClasslariCalistirma.xml">
     <configuration name="C:/Users/Yvz/IdeaProjects/com.morhipo_TestNG_/xmlFiles/belirliClasslariCalistirma.xml" type="TestNG" nameIsGenerated="true">
       <module name="com.KahveDunyasi_TestNG_" />
