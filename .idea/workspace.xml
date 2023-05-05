@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac0c5d69-4be2-472b-935f-ce7cf27f36d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/com.KahveDunyasi_TestNG_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/com.KahveDunyasi_TestNG_.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Kahve Dunyasi Web Automation_20230428050912.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/KahveDunyasi_Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmlFiles/belirliClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/belirliClasslariCalistirma.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/crossBrowserParalelCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/crossBrowserParalelCalistirma.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/Users/Yvz/IdeaProjects/com.morhipo_TestNG_/xmlFiles/belirliClasslariCalistirma.xml">
+  <component name="RunManager" selected="TestNG.KahveDunyasi_Tests">
     <configuration name="C:/Users/Yvz/IdeaProjects/com.morhipo_TestNG_/xmlFiles/belirliClasslariCalistirma.xml" type="TestNG" nameIsGenerated="true">
       <module name="com.KahveDunyasi_TestNG_" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/belirliClasslariCalistirma.xml" />
@@ -82,8 +83,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KahveDunyasi_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.KahveDunyasi_TestNG_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.KahveDunyasi_Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.KahveDunyasi_Tests" />
         <item itemvalue="TestNG.C:/Users/Yvz/IdeaProjects/com.morhipo_TestNG_/xmlFiles/tumTestleriCalistirma.xml" />
         <item itemvalue="TestNG.KahveDunyasi_Mobil_Tests" />
       </list>

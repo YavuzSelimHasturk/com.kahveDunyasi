@@ -1,6 +1,8 @@
 package tests;
 
 
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
 import pages.KahveDunyasi_Pages;
@@ -24,6 +26,7 @@ public class KahveDunyasi_Tests extends TestBaseRapor {
     }
 
     @Test
+    @Severity(SeverityLevel.NORMAL)
     public void TC_001() {
 
         extentTest = extentReports.createTest("WEB_TC_001", "Turkish coffee page opening test");
